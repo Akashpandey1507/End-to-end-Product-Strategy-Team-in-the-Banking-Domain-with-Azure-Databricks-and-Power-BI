@@ -24,3 +24,13 @@
 # Dataset required to generate Insights
 * Metadata
 * Supporting documents
+
+# Power BI Dashboard
+
+![image](https://github.com/Akashpandey1507/End-to-end-Product-Strategy-Team-in-the-Banking-Domain-with-Azure-Databricks-and-Power-BI/assets/124170332/5ab55f11-eba5-4cec-a730-b91e95aed8b6)
+
+
+![image](https://github.com/Akashpandey1507/End-to-end-Product-Strategy-Team-in-the-Banking-Domain-with-Azure-Databricks-and-Power-BI/assets/124170332/0c2876c7-4e61-4441-b2e0-446e5f93961a)
+
+
+![image](https://github.com/Akashpandey1507/End-to-end-Product-Strategy-Team-in-the-Banking-Domain-with-Azure-Databricks-and-Power-BI/assets/124170332/907a11a8-28ef-4b07-8569-e9fafab7c389)
